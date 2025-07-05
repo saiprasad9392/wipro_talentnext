@@ -14,3 +14,8 @@ public class alphabet_order {
 	}
 
 }
+/* output
+e
+a
+a e
+*/
